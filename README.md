@@ -16,11 +16,11 @@
 
 ### 팀 슬로건
 
-팀 슬로건을 작성합니다.
+Software, Our Superpower!
 
 ### 팀 소개
 
-팀의 소개를 작성합니다.
+INTP, ISTP, ENTP, ISFP, ENTJ
 
 ***
 
