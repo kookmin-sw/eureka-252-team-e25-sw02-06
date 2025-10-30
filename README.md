@@ -3,6 +3,9 @@
 
 ![KakaoTalk_20251028_135029035](https://github.com/user-attachments/assets/2861b769-d331-41cb-a7cc-419033fa1967)
 
+### 📸 원본 이미지 다운로드
+[Google Drive 다운로드 링크](https://drive.google.com/file/d/10dvm9mhewGlA0axzrZdZb9aWPHfFc1T_/view?usp=sharing)
+
 ## 1️⃣ 팀원 소개
 
 | **이름** | **전공** | **관심사** |
